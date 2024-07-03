@@ -19,7 +19,6 @@ Admin interface.
 - [Change-Log](#change-log)
 - [Authors](#authors)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 <!-- /MarkdownTOC -->
 
@@ -131,14 +130,6 @@ along with specific tasks completed for each version released to date.
 
 This project is licensed under the `GNU Affero General Public License` License.
 See the [LICENSE][license] file for full details.
-
-## Acknowledgements
-
-Special thanks go out to the following people and projects who have helped in
-some way to make this project a reality.
-
-- [CodingCyber][shopping-source] for the original source code that formed the
-  basis of this project.
 
 [deploy]: #deployment
 [COC]: CODE_OF_CONDUCT.md
