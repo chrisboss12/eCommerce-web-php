@@ -14,8 +14,6 @@ Admin interface.
         - [Create MySQL/MariaDB Database](#create-mysqlmariadb-database)
         - [Update Config Variables](#update-config-variables)
         - [Run Webserver](#run-webserver)
-- [Funding](#funding)
-- [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Versioning](#versioning)
 - [Change-Log](#change-log)
@@ -109,16 +107,6 @@ $ php -S localhost:8000
 [Fri Aug  7 10:44:02 2020] [::1]:51358 Accepted
 ```
 
-## Funding
-
-If you find this project valuable, please consider [giving us a small donation][paypal] to help keep the project alive. We can really do with the support to help us continue to maintain this project.
-
-## Contributing
-
-Please read the [CONTRIBUTING.md][CONTRIBUTING] file for details on how you
-can get involved in the project as well as the process for submitting bugs
-and pull requests.
-
 ## Code of Conduct
 
 Please read the [CODE_OF_CONDUCT.md][COC] file for the guidelines that govern
@@ -137,10 +125,7 @@ along with specific tasks completed for each version released to date.
 
 ## Authors
 
-- Justin Hartman - [@justinhartman][author-1]
-
-Also see the list of [contributors][contribs] who have participated in this
-project.
+- Christian Dave Cobalida - [@chrisboss12][author-1]
 
 ## License
 
@@ -154,18 +139,11 @@ some way to make this project a reality.
 
 - [CodingCyber][shopping-source] for the original source code that formed the
   basis of this project.
-- [@justinhartman/.github][.github] for the Github project templates.
 
 [deploy]: #deployment
-[CONTRIBUTING]: CONTRIBUTING.md
 [COC]: CODE_OF_CONDUCT.md
 [license]: LICENSE
 [changelog]: CHANGELOG.md
 [semver]: http://semver.org
-[tags]: https://github.com/justinhartman/complete-php7-ecom-website/tags
-[releases]: https://github.com/justinhartman/complete-php7-ecom-website/releases
-[contribs]: https://github.com/justinhartman/complete-php7-ecom-website/contributors
-[author-1]: https://github.com/justinhartman
-[.github]: https://github.com/justinhartman/.github
+[author-1]: https://github.com/chrisboss12]
 [shopping-source]: https://codingcyber.org/simple-shopping-cart-application-php-mysql-6394/
-[paypal]: https://paypal.me/22digital
